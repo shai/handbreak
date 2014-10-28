@@ -20,8 +20,8 @@ and you need to make sure that all of the machines (including your local one,
 if you want to use it to also render the video files) have access
 to the destination directories to read/write to.
 
-*Shadowplay - http://www.geforce.com/geforce-experience/shadowplay
-*HandBreak - https://handbrake.fr/
+* Shadowplay - http://www.geforce.com/geforce-experience/shadowplay
+* HandBreak - https://handbrake.fr/
 
 ## Running the script
 To run the script, I simply access it from the share or manually
