@@ -1,7 +1,7 @@
 handbreak
 =========
 
-Distributed CPU power across multiple machine to render video files using HandBrakeCLI.exe
+Distributed CPU power across multiple machines to render video files using HandBrakeCLI.exe
 
 ## Why?
 Why do I need this script? Because Adobe Piere Pro CC is a
